@@ -1,2 +1,4 @@
-package com.example.proyecto.entities;public class Brujo {
+package com.example.proyecto.entities;
+
+public class Brujo {
 }
